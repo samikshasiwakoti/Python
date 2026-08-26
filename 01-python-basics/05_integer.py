@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 age4 = 23
 marks1 = 85
 temperature = -5
@@ -61,5 +59,5 @@ result2 = float(number2)
 print(type(result2))
 print(result2)
 
->>>>>>> 159c4a5 (Learn integer data types)
+
 
